@@ -1,5 +1,5 @@
-name: fluuter_test_apps
-description: "A new Flutter project."
+name: flutter_app
+description: "Flutter 학습용 앱."
 
 # Prevent accidental publishing to pub.dev.
 publish_to: 'none'
